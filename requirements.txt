@@ -1,0 +1,60 @@
+# Core Computer Vision Libraries
+opencv-python==4.8.1.78
+opencv-contrib-python==4.8.1.78
+
+# Deep Learning Frameworks
+torch==2.1.0
+torchvision==0.16.0
+tensorflow==2.14.0
+
+# YOLOv5/YOLOv8 Dependencies
+ultralytics==8.0.196
+yolov5==7.0.13
+
+# Object Tracking
+filterpy==1.4.5
+scikit-image==0.21.0
+lap==0.4.0
+
+# Numerical Computing
+numpy==1.24.3
+scipy==1.11.3
+
+# Data Processing
+pandas==2.1.1
+
+# Visualization
+matplotlib==3.8.0
+seaborn==0.12.2
+Pillow==10.0.1
+
+# Video Processing
+moviepy==1.0.3
+imageio==2.31.5
+imageio-ffmpeg==0.4.9
+
+# Progress Bars and Logging
+tqdm==4.66.1
+
+# YAML Configuration
+PyYAML==6.0.1
+
+# HTTP Requests (for model downloads)
+requests==2.31.0
+
+# Additional Utilities
+python-dotenv==1.0.0
+easydict==1.10
+
+# Optional: For Web Interface (if you have one)
+# flask==3.0.0
+# flask-cors==4.0.0
+
+# Optional: For API Development
+# fastapi==0.103.2
+# uvicorn==0.23.2
+
+# Optional: For Jupyter Notebooks
+# jupyter==1.0.0
+# ipykernel==6.25.2
+# ipywidgets==8.1.1
