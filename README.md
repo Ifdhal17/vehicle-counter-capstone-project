@@ -23,10 +23,6 @@ This project is a collaboration with **Megalogic** to fulfill the **Capstone Pro
 - [Project Structure](#project-structure)
 - [How It Works](#how-it-works)
 - [Results](#results)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## 🎯 Overview
 
