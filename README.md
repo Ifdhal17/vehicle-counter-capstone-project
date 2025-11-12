@@ -14,6 +14,8 @@ This project is a collaboration with **Megalogic** to fulfill the **Capstone Pro
 * **Adrian Alfajri** as a *Machine Learning Engineer*
 * **Alverta Orlandia Prijono** as a *Cloud Computing Engineer*
 
+**PITCH DECK : https://drive.google.com/file/d/1LvApVCt-4FDGKrMpqEdQHsgqqRdCi66M/view?usp=sharing**
+
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -49,7 +51,6 @@ This project provides an automated solution that can process video feeds in real
 **Languages & Libraries:**
 - Python 3.8+
 - OpenCV - Image processing and video handling
-- NumPy - Numerical computations
 - TensorFlow/PyTorch - Deep learning framework
 
 **Models & Algorithms:**
